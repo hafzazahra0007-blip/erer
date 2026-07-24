@@ -1,0 +1,6 @@
+{
+  "name": "Water Sort",
+  "description": "A premium 3D glass liquid sorting puzzle game with realistic physics, custom bottle & background themes, smooth 60 FPS pouring animations, audio feedback, offline mode, and unlimited levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
